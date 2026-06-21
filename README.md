@@ -3,8 +3,9 @@
 A machine learning web app that predicts diabetes risk using **Logistic Regression** 
 trained on the **PIMA Indians Diabetes Dataset**, served via a clean **Streamlit** UI.
 
----
-
+---**
+> **Deployed streamlit link: https://diabetesproject-abdulmoizmuhammadi-64509.streamlit.app/**
+> **
 ## 📁 Project Structure
 
 ```
